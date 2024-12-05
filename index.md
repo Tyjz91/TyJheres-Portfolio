@@ -16,6 +16,10 @@ For my final milestone I created a jumper game using the Arduino board, kind of 
 ![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
 
 
+# Final Schematic Sir Kickington 
+![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
+
+
 
 # First Milestone
   
