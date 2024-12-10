@@ -20,7 +20,4 @@ My first milestone was to be able to build the rc car and get it to drive by con
 # Final Milestone
 
 For my final milestone, I created a jumper game using the Arduino board and a screen. It is like a simplified super mario game. it uses over 300 lines of code, and is a lot more complex than it looks. This took me about a day and a half to get this fully working.
-[![Jumper Game Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
-# Final Schematic Sir Kickington 
-![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
