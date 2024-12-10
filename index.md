@@ -5,7 +5,6 @@ This is my First Arduino Project. I created an rc car that took about 4 days to 
 |:--:|:--:|:--:|:--:|
 | Ty'Jhere | Aquinas Institute | Computer Engineering/Video game Design | Junior 
 
-![Rc Car](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
 
 
